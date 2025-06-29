@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gyebiofficial
-- 👀 I’m interested in C++
+- 👀 I’m interested in mobile app development and machine learning
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me gyebiofficial@gmail.com 
