@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prince Gyebi Adusei
-- 👀 I’m interested in mobile app development and machine learning
+- 👀 I’m interested in software development, data analysis and machine learning
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me gyebiofficial@gmail.com 
